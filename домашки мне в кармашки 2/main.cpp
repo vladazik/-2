@@ -5,7 +5,7 @@ int main() {
 
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
-	int zadacha = 1; 2; 3;
+	int zadacha = 0;
 	
 	std::cout << "\t\t\tНапишите цифру от 1 до 3 для нужной задачи\n";
 	std::cin >> zadacha;
